@@ -1,0 +1,18 @@
+@import url(https://use.fontawesome.com/releases/v5.11.2/css/all.css);
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap);
+* {
+  font-family: "Roboto";
+}
+.icon-hover:hover {
+  border-color: #3b71ca !important;
+  background-color: white !important;
+}
+
+.icon-hover:hover i {
+  color: #3b71ca !important;
+}
+h6 {
+  color: rgba(255, 17, 0, 0.811);
+  font-weight: bolder;
+  font-size: xx-large;
+}
